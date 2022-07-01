@@ -89,14 +89,12 @@ body {
 /* Style the container/contact section */
 .container {
   border-radius: 5px;
-
   padding: 10px;
   position: absolute;
  right: 0;
  margin: 20px;
  max-width: 300px;
  padding: 16px;
-
  align-content: flex-start;
 }
 body {
@@ -105,9 +103,7 @@ body {
   background-color: black;
 }
 
-* {
-  box-sizing: border-box;
-}
+
 
 /* Style inputs */
 input[type=text], select, textarea {
