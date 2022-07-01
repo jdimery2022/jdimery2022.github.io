@@ -1,0 +1,169 @@
+#container {
+    display: flex;
+    align-items: center;
+    background-image: url("/img/web\ design.jpg");
+    background-repeat: no-repeat alt="New York" width="1100" height="500;"
+  }
+  a:link {
+    text-decoration: none;
+  }
+  header {
+    text-align: center;
+  }
+  #container div {
+    align-items: center;
+    margin: 20px;
+    width: 100%;
+    align-content: center;
+  }
+  footer {
+    position: relative;
+    text-align: center;
+    text-decoration: none ;
+  }
+  
+   /* End of new about2.css */
+  
+  body, html {
+      margin-top: 10;
+      height: 100%;
+      background-color: black;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  
+    #container1 {
+      display: flex;
+      position:relative;
+    }
+    .container {
+      position: absolute;
+      margin: 20px;
+      width: auto;
+    }
+  
+    /* The navbar */
+    .topnav {
+      overflow: hidden;
+      background-color: #000000;
+      float: right;
+    }
+  
+    /* Navbar links */
+    .topnav a {
+      float: left;
+      color: #F2F2F2;
+      text-align: center;
+      padding: 5px 16px;
+      text-decoration: none;
+      font-size: 13px;
+    }
+  
+    .topnav a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+  
+    /* nav styles */
+  
+    nav .menu {
+      float: right;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-right: 30px;
+      color: white;
+      font-size: 13px;
+    }
+  
+    .logo {
+      width: 35px;
+      padding-left: 20px;
+      padding-top: 10px;
+      padding-bottom: 15px;
+    }
+    a:link {
+      text-decoration: none;
+    }
+     h2, h4, h6 {
+      color: white;
+    }
+  
+    p {
+      color: white;
+      text-align: center;
+    }
+    header {
+            
+      text-align: center;
+      color:white;
+      font-size: 13px;
+      margin-top: auto;
+      }
+      .jumbotron {
+      
+        position: relative;
+        bottom: 200;
+        background: rgb(0, 0, 0); /* Fallback color */
+        background: rgba(226, 222, 239, 0.2); /* Black background with 0.2 opacity */
+        color: black;
+        width: 100%;
+        height: 400px;
+        padding: 5px;
+      }
+  
+      .parallax1 {
+        /* The image used */
+        background-image: url('/img/Emerging-web-design-trends-for-2021.jpeg');
+        /* Full height */
+        height: 100%;
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
+        .parallax2 {
+        /* The image used */
+        background-image: url('/img/web\ development.jpg');
+        /* Full height */
+        height: 50%;
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
+        .parallax3 {
+          /* The image used */
+          background-image: url('/img/starry_night_192398.jpg');
+          /* Full height */
+          height: 100%;
+          /* Create the parallax scrolling effect */
+          background-color: white;
+          background-attachment: fixed;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          }
+          
+          #container1 {
+        display: flex;
+        position:relative;
+      }
+    .fa {
+      padding: 10px;
+      font-size: 12px;
+      width: 15px;
+      text-align: left;
+      text-decoration: none;
+      margin: 0px 0px 0px 0px;
+    }
+  
+    footer {
+  
+      margin: 0%;
+      height: 20px;
+      position: relative;
+      padding-top: 10px;
+      background-color: black;
+      color: black;
+    }
