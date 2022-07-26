@@ -67,7 +67,18 @@ body, html {
       font-size: 13px;
   
     }
-  
+    .btn {
+      background-color: #3e0af8;
+      border: none;
+      color: white;
+      padding: 15px 16px;
+      text-align: center;
+      text-decoration: none;
+
+      font-size: 16px;
+      margin-left: 4px;
+      cursor: pointer;
+    }
     .jumbotron {
       
         position: relative;
